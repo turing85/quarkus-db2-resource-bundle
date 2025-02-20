@@ -1,0 +1,6 @@
+target/
+.idea/
+
+local-deployment/db2db/database
+
+*.iml
